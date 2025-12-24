@@ -1,0 +1,5 @@
+{
+  "name": "SmartQuizzer – Adaptive AI Quiz Generator",
+  "description": "An AI-powered adaptive quiz platform that generates questions from study materials, adjusts difficulty in real-time based on performance, and provides deep visual analytics.",
+  "requestFramePermissions": []
+}
