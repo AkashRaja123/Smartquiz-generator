@@ -49,7 +49,7 @@ Create a new API key. This key is required to power the assessment generation.
 ### 2. Clone the Repository
 Clone the project to your local machine using the following command:
 ```bash
-git clone https://github.com/your-username/smart-quizzer.git
+git clone https://github.com/AkashRaja123/Smartquiz-generator.git
 cd smart-quizzer
 ```
 
